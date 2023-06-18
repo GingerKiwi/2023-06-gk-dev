@@ -1,4 +1,33 @@
-#root {
+:root {
+	--clr-black: hsl(0, 0%, 8%); /* Hex  #151515 */
+	--clr-grey-dark:hsl(0, 0%, 14%); /* Hex  #242424 */
+	--clr-grey: hsl(153, 71%, 59%); /* Hex  #4EE1A0 */
+	--clr-green: hsl(0, 0%, 85%); /* Hex  #D9D9D9 */
+	--clr-white: hsl(0, 0%, 100%); /* Hex  #FFF */
+
+/* GK Blog Colours */
+  --clr-gk-accent-pink: hsl(337, 74%, 45%); /* hex: #c71e5f */
+  --clr-gk-accent-orange: hsl(16, 69%, 42%); /* hex: b44821 */
+  /* --widget-border-1: hsl(0, 0%, 92%); 
+  --header-colour-1: hsl(0, 0%, 97%); 
+  --nav-accent-1: hsl(0, 0%, 44%); 
+  --medium-grey-2: hsl(0, 0%, 44%);  */
+
+	--ff-default: 'Space Grotesk', sans-serif;
+
+	--fw-700: 700;
+	--fw-xxx: 400;
+
+	--fs-xlarge: 5.5rem; /* 88px */
+	--fs-large: 3.5rem; /* 56px */
+	--fs-medium: 1.5rem; /* 24px */
+	--fs-regular: 1.125rem; /* 18px */
+
+}
+
+
+
+/* #root {
   max-width: 1280px;
   margin: 0 auto;
   padding: 2rem;
@@ -39,4 +68,4 @@
 
 .read-the-docs {
   color: #888;
-}
+} */
