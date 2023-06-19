@@ -157,6 +157,8 @@
   },
   "active": "dad7c6c42ef5a795",
   "lastOpenFiles": [
+    "src/assets/dev-photo-mobile.png",
+    "src/assets/dev-photo.png",
     "src/assets/icon-linktree.svg",
     "src/assets/icon-scrimba.svg",
     "src/assets/icon-discord.svg",
@@ -166,8 +168,6 @@
     "src/assets/scrimba.svg",
     "src/assets/ibm.svg",
     "src/assets/linktree.svg",
-    "src/assets/graphic-ovals-group26-botom-right.svg",
-    "src/assets/graphic-ovals-group26-botom-right.png",
     "src/components/ContactForm.jsx",
     "src/components/Hero.jsx",
     "src/components/ContactForm",
