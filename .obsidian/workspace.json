@@ -14,21 +14,8 @@
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "dad7c6c42ef5a795",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -155,8 +138,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dad7c6c42ef5a795",
+  "active": "403ae4d5747da19b",
   "lastOpenFiles": [
-    "README.md.md"
+    "vite.config.js.timestamp-1687268641366-2490f2ceb9014.mjs",
+    "src/Components/Hero.jsx",
+    "src/Components/Footer.jsx",
+    "src/Components",
+    "README.md",
+    "src/App.css",
+    "README.md.md",
+    "vite.config.js.timestamp-1687267570073-79daba4cdf4aa.mjs",
+    "src/styles.css",
+    "src/components/Footer.jsx",
+    "src/components/Main.jsx",
+    "vite.config.js.timestamp-1687266413492-ecb006cecdba5.mjs",
+    "src/TestComponent.jsx",
+    "src/assets/dev-photo-mobile.png",
+    "src/assets/dev-photo.png",
+    "src/assets/icon-linktree.svg",
+    "src/assets/icon-scrimba.svg",
+    "src/assets/icon-discord.svg",
+    "src/assets/icon-markdown.svg",
+    "src/assets/icon-obsidian.svg",
+    "src/assets/discord.svg",
+    "src/assets/scrimba.svg",
+    "src/assets/ibm.svg"
   ]
 }
