@@ -16,13 +16,26 @@
 	--ff-default: 'Space Grotesk', sans-serif;
 
 	--fw-700: 700;
-	--fw-xxx: 400;
+	--fw-400: 400;
 
 	--fs-xlarge: 5.5rem; /* 88px */
 	--fs-large: 3.5rem; /* 56px */
 	--fs-medium: 1.5rem; /* 24px */
 	--fs-regular: 1.125rem; /* 18px */
 
+}
+
+body {
+  font-family: var(--ff-default);
+  font-weight: var(--fw-400);
+  font-size: var(--fs-regular);
+  line-height: 1.5;
+  color: var(--clr-white);
+  background-color: var(--clr-black);
+}
+
+h1 {
+  color: var(--clr-gk-accent-pink);
 }
 
 
