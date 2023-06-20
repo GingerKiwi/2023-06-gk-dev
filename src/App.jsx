@@ -14,7 +14,7 @@ function App() {
     <>
       <Socials />
       <Hero />
-      <h1>hello world! I'm Liz McCready</h1>
+      <h1>hello world! I am Liz McCready</h1>
       <StackAndTools />
       <ProjectCards />
       <Footer />
