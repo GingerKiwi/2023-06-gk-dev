@@ -38,7 +38,29 @@ h1 {
   color: var(--clr-gk-accent-pink);
 }
 
+h2 {
+  /* center h2 */
+  text-align: center;
+}
 
+footer {
+  background-color: var(--clr-grey-dark);
+}
+
+/* UTILITY CLASSES */
+
+.text--align-center {
+  text-align: center;
+}
+
+.text--border-bottom-orange {
+  /* border-bottom: 1px solid var(--clr-gk-accent-orange); */
+  text-decoration: underline 2px var(--clr-gk-accent-orange);
+}
+
+.text--uppercase {
+  text-transform: uppercase;
+}
 
 /* #root {
   max-width: 1280px;
